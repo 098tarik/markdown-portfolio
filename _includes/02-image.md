@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+! [ Google ] https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2018%2F02%2Fgoogle-pacman-796x419.jpg&imgrefurl=https%3A%2F%2Fthenextweb.com%2Fgaming%2F2018%2F02%2F07%2Freport-googles-working-on-a-streaming-game-platform-called-yeti%2F&docid=G1NF-xOadwk7OM&tbnid=1R2baY57iJhJlM%3A&vet=10ahUKEwiG2qGm073eAhVjja0KHSLWDrAQMwh4KAcwBw..i&w=796&h=419&bih=657&biw=1370&q=google&ved=0ahUKEwiG2qGm073eAhVjja0KHSLWDrAQMwh4KAcwBw&iact=mrc&uact=8
